@@ -1,1 +1,5 @@
 This is a PCB design for HackClub Solder which is about a LEDs lightining (SO SIMPLE!!!)
+![Screenshot 2025-05-06 114950](https://github.com/user-attachments/assets/05eb3ecd-e099-4ec6-8713-4bf642a2336a)
+![Screenshot 2025-05-06 115023](https://github.com/user-attachments/assets/837be40c-c924-48a8-8c1e-62557474e43c)
+![Screenshot 2025-05-06 115033](https://github.com/user-attachments/assets/5ff39717-7377-4a71-b61e-41a75b104a82)
+![Screenshot 2025-05-06 114934](https://github.com/user-attachments/assets/0c593bc7-dd90-4b55-9785-eaa7f95ff4e4)
